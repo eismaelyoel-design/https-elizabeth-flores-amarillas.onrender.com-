@@ -1,0 +1,2 @@
+NUMERO = 20 
+PRINT(NUMERO) 
